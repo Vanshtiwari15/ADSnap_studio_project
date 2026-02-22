@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic
+Pillow==10.2.0
+python-magic==0.4.27
+python-multipart
